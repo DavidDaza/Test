@@ -1,0 +1,5 @@
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\Login\bin\Debug\Login.dll
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\Login\bin\Debug\Login.pdb
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\Login\obj\Debug\Login.dll
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\Login\obj\Debug\Login.pdb

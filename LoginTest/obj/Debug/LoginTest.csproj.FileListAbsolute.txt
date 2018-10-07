@@ -1,0 +1,10 @@
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\LoginTest\bin\Debug\LoginTest.dll
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\LoginTest\bin\Debug\LoginTest.pdb
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\LoginTest\bin\Debug\Login.dll
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\LoginTest\bin\Debug\nunit.framework.dll
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\LoginTest\bin\Debug\Login.pdb
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\LoginTest\bin\Debug\nunit.framework.pdb
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\LoginTest\bin\Debug\nunit.framework.xml
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\LoginTest\obj\Debug\LoginTest.dll
+c:\users\david.arcas\documents\visual studio 2013\Projects\POC\LoginTest\obj\Debug\LoginTest.pdb
