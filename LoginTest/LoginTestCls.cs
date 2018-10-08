@@ -11,8 +11,8 @@ namespace LoginTest
         public void Autenticacion_de_usuario_correcta()
         {
             var login = new LoginCls();
-
-            Assert.AreEqual("Autenticacion de usuario correcta.", login.autenticacionDeUsuarios("uswe","Pass1258/*"));
+//jjjjjjjjj
+            Assert.AreEqual("Autenticacion de usuario correca.", login.autenticacionDeUsuarios("uswe","Pass1258/*"));
 
         }
 
